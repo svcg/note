@@ -1,0 +1,10 @@
+# How to use this *.mmap file?
+# First,You must download a software of 'Mindjet MindManager 2016',even the new one more than this version .
+# Second , the first open this *.mmap file , the system will be get a bug , that is normal.
+# You can use a software open it and fix the DocumentPath's Path,  I am advicing that you can fix it null. 
+# eg: DocumentPath=""
+# Lastest, you can use it by Mindjet MindManager 2016
+# time: 2016/4/01 
+# author: cleveng
+# email: cleveng@gmail.com
+# ---------------------------------------------------------------------------------------------------------
